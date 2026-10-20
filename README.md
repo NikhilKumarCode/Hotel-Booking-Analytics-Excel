@@ -5,6 +5,12 @@
 
 This project presents an interactive **Hotel Booking Analytics Dashboard** developed using Microsoft Excel.
 
+## Download the Interactive Dashboard
+
+[**Download Excel Dashboard (.xlsx)**](Excel_Hotel_Booking_Analysis.xlsx)
+
+> **Note:** GitHub cannot preview the Excel workbook online due to its file size. Download the file and open it in Microsoft Excel Desktop to explore the interactive dashboard, charts, and slicers.
+
 ## Business Objectives
 
 The analysis focuses on:
